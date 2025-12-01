@@ -1,0 +1,415 @@
+{
+  "info": {
+    "title": "Professional CV Information Form",
+    "documentTitle": "CV Information"
+  },
+  "items": [
+    {
+      "title": "Personal Information",
+      "pageBreakItem": {}
+    },
+    {
+      "title": "Full Name",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          },
+          "required": true
+        }
+      }
+    },
+    {
+      "title": "City & Province",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          },
+          "required": true
+        }
+      }
+    },
+    {
+      "title": "Email Address",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          },
+          "required": true
+        }
+      }
+    },
+    {
+      "title": "Phone Number",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          },
+          "required": true
+        }
+      }
+    },
+    {
+      "title": "GitHub Profile URL (Optional)",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "LinkedIn Profile URL (Optional)",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Portfolio / Website (Optional)",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Professional Summary",
+      "pageBreakItem": {}
+    },
+    {
+      "title": "Write a short professional summary (3–4 lines).",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": true
+          },
+          "required": true
+        }
+      }
+    },
+    {
+      "title": "Skills",
+      "pageBreakItem": {}
+    },
+    {
+      "title": "Technical Skills",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": true
+          },
+          "required": true
+        }
+      }
+    },
+    {
+      "title": "Soft Skills",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "title": "Work Experience",
+      "pageBreakItem": {}
+    },
+    {
+      "title": "Add Work Experience?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              { "value": "Yes" },
+              { "value": "No" }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Job Title",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Company Name",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Location (City, Province)",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Start Date – End Date",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Achievements / Responsibilities (3–5 points)",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "title": "Projects",
+      "pageBreakItem": {}
+    },
+    {
+      "title": "Add Projects?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              { "value": "Yes" },
+              { "value": "No" }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Project Name",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Your Role",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Duration",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Project Description (3–4 bullet points)",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "title": "Technologies Used",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Extracurricular / Volunteer (Optional)",
+      "pageBreakItem": {}
+    },
+    {
+      "title": "Activity Name",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Role",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Duration",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Description / Achievements",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    },
+    {
+      "title": "Education",
+      "pageBreakItem": {}
+    },
+    {
+      "title": "Degree Title",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          },
+          "required": true
+        }
+      }
+    },
+    {
+      "title": "Institute Name",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          },
+          "required": true
+        }
+      }
+    },
+    {
+      "title": "Start Date – End Date",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          },
+          "required": true
+        }
+      }
+    },
+    {
+      "title": "Certifications",
+      "pageBreakItem": {}
+    },
+    {
+      "title": "Add Certifications?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              { "value": "Yes" },
+              { "value": "No" }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Certification Name",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Issuing Organization",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Completion Date",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Certificate URL",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": false
+          }
+        }
+      }
+    },
+    {
+      "title": "Additional Links",
+      "pageBreakItem": {}
+    },
+    {
+      "title": "Any additional links (portfolio, publications, awards)?",
+      "questionItem": {
+        "question": {
+          "textQuestion": {
+            "paragraph": true
+          }
+        }
+      }
+    }
+  ]
+}
